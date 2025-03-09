@@ -1,5 +1,7 @@
 # Unbeatable TicTacToe AI
 
+You can play the game here: [https://unbeatable-ai.vercel.app/](https://unbeatable-ai.vercel.app/)
+
 ## Project Overview
 
 This project implements an unbeatable TicTacToe game using the Minimax algorithm. The AI opponent is designed to either win or force a draw in every game, making it impossible to defeat.
