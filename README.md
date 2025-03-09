@@ -4,6 +4,11 @@
 
 This project implements an unbeatable TicTacToe game using the Minimax algorithm. The AI opponent is designed to either win or force a draw in every game, making it impossible to defeat.
 
+## Game View
+
+![Game View](/public/image.png)
+_An example of the TicTacToe game interface._
+
 ## Features
 
 - Intuitive user interface for the TicTacToe game
@@ -51,7 +56,7 @@ In a game with perfect information like TicTacToe, if both players play optimall
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/unbeatable-ai.git
+git clone https://github.com/Keerthan04/Unbeatable-AI
 
 # Navigate to project directory
 cd unbeatable-ai
