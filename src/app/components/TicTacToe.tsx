@@ -74,7 +74,7 @@ export default function TicTacToeGame() {
           for an unbeatable AI.
         </p>
         <a
-          href="https://github.com/yourusername/your-repo"
+          href="https://github.com/Keerthan04/Unbeatable-AI"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center mt-3 text-blue-400 hover:underline"
